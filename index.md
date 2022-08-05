@@ -74,4 +74,4 @@ If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll loc
 
 ## About the project
 
-MWDG M6 &copy; 2022{{ "now" | date: "%Y" }} Capetti Elettronica S.r.l.WWS
+MWDG M6 &copy; {{ "now" | date: "%Y" }} Capetti Elettronica S.r.l.
